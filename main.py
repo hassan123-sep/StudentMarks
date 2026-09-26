@@ -18,6 +18,3 @@ else:
     result = "Fail"
 
 print("\nStudent:", name)
-print("Marks:", marks)
-print("Grade:", grade)
-print("Result:", result)
